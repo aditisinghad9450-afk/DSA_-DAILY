@@ -1,4 +1,4 @@
-Daily practice of easy DSA problems, with one commit per day.
+DAY 1-
 1. Two Sum
 Problem: Given an array and a target, find the indices of two numbers that add up to the target.
 Approach: Use two loops to check every possible pair. If the sum of two numbers equals the target, return their indices.
